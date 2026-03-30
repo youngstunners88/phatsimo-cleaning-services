@@ -1,0 +1,20 @@
+{
+  "businessName": "Phatsimo Cleaning",
+  "category": "cleaning",
+  "brandColors": {
+    "primary": "#00B894",
+    "secondary": "#55EFC4",
+    "accent": "#FDCB6E",
+    "dark": "#00A884",
+    "light": "#E8F8F5"
+  },
+  "tagline": "We Make It Sparkle",
+  "services": [
+    "Residential Cleaning",
+    "Office Cleaning",
+    "Deep Cleaning",
+    "Window Cleaning",
+    "Move-in/Move-out",
+    "Carpet Cleaning"
+  ]
+}
